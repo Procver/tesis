@@ -1,5 +1,5 @@
 # tesis
 Repositorio del trabajo de pregrado.
 ## Contenido
-1- Documentos
+1- Git y GitHub paso a paso
 2- Tutoriales
